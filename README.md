@@ -33,6 +33,7 @@ Dentro do 'Import' procure pelo conjunto de dados que carregamos, conforme a ima
 <div align="center">
  <img src="https://github.com/user-attachments/assets/877aa006-8d3a-4ae7-a2ba-b807dc057d37" width="700px" />
 </div>
+
 ## Fazendo nossa primeira busca
 
 Na mesma aba onde selecionamos o 'import data' clique em 'Search explorer' e já podemos fazer nossas buscas.
